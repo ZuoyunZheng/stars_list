@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Markdown](#markdown)
 *   [TypeScript](#typescript)
@@ -17,9 +18,16 @@
 *   [Java](#java)
 *   [CSS](#css)
 *   [HTML](#html)
-*   [JavaScript](#javascript)
+
+## JavaScript
+
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
+*   [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 
 ## Python
+
+*   [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 
 *   [halsay/ASR-TTS-paper-daily](https://github.com/halsay/ASR-TTS-paper-daily) - Update ASR paper everyday
 
@@ -172,7 +180,3 @@
 *   [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) -  A collection of resources and papers on Diffusion Models
 
 *   [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss) - 🤖 Machine Learning Summer School Guide
-
-## JavaScript
-
-*   [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
