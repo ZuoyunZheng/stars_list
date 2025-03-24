@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Python](#python)
+*   [JavaScript](#javascript)
 *   [Markdown](#markdown)
 *   [TypeScript](#typescript)
 *   [C++](#c)
@@ -19,13 +19,9 @@
 *   [CSS](#css)
 *   [HTML](#html)
 
-## JavaScript
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-
-*   [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
-
 ## Python
+
+*   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 *   [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 
@@ -76,6 +72,12 @@
 *   [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 
 *   [csukuangfj/transducer-loss-benchmarking](https://github.com/csukuangfj/transducer-loss-benchmarking) -
+
+## JavaScript
+
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
+*   [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
 
 ## Markdown
 
