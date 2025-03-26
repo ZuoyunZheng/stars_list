@@ -29,7 +29,7 @@
 
 *   [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 
-*   [openai/openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) -
+*   [openai/openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
 
 *   [openai/openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 
@@ -41,7 +41,7 @@
 
 *   [open-thoughts/open-thoughts](https://github.com/open-thoughts/open-thoughts) - Fully open data curation for reasoning models
 
-*   [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) - This is a replicate of DeepSeek-R1-Zero and DeepSeek-R1 training on small models with limited data
+*   [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) - Simple RL training for reasoning
 
 *   [evelinehong/Transformer\_Relative\_Position\_PyTorch](https://github.com/evelinehong/Transformer_Relative_Position_PyTorch) - Implement the paper "Self-Attention with Relative Position Representations"
 
