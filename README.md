@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Markdown](#markdown)
 *   [TypeScript](#typescript)
-*   [C++](#c)
 *   [Cuda](#cuda)
 *   [miscellaneous](#miscellaneous)
 *   [Vim Script](#vim-script)
@@ -19,7 +19,23 @@
 *   [CSS](#css)
 *   [HTML](#html)
 
+## C++
+
+*   [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+
+*   [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
+
+*   [pzelasko/minictc](https://github.com/pzelasko/minictc) - A minimalistic CTC implementation for CPUs in C++.
+
+*   [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing
+
 ## Python
+
+*   [whitphx/streamlit-webrtc](https://github.com/whitphx/streamlit-webrtc) - Real-time video and audio processing on Streamlit
+
+*   [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 
 *   [KoljaB/Linguflex](https://github.com/KoljaB/Linguflex) - Command Your World with Voice
 
@@ -94,16 +110,6 @@
 *   [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
 
 *   [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
-
-## C++
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-
-*   [AnswerDotAI/gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp) - A lightweight library for portable low-level GPU computation using WebGPU.
-
-*   [pzelasko/minictc](https://github.com/pzelasko/minictc) - A minimalistic CTC implementation for CPUs in C++.
-
-*   [moderngpu/moderngpu](https://github.com/moderngpu/moderngpu) - Patterns and behaviors for GPU computing
 
 ## Cuda
 
