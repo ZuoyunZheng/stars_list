@@ -5,6 +5,7 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [JavaScript](#javascript)
@@ -14,12 +15,13 @@
 *   [Vim Script](#vim-script)
 *   [PureBasic](#purebasic)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Shell](#shell)
 *   [Java](#java)
 *   [CSS](#css)
 *   [HTML](#html)
 
 ## Python
+
+*   [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 
 *   [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
@@ -88,6 +90,14 @@
 *   [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 
 *   [csukuangfj/transducer-loss-benchmarking](https://github.com/csukuangfj/transducer-loss-benchmarking) -
+
+## Shell
+
+*   [TanglingTreats/tmux-everforest](https://github.com/TanglingTreats/tmux-everforest) - Everforest theme for tmux
+
+*   [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
+
+*   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
 ## TypeScript
 
@@ -178,12 +188,6 @@
 *   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 *   [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, for human consumption
-
-## Shell
-
-*   [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
-
-*   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
 ## Java
 
