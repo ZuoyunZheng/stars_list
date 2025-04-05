@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Python](#python)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
@@ -18,6 +19,10 @@
 *   [Java](#java)
 *   [CSS](#css)
 *   [HTML](#html)
+
+## Go
+
+*   [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities.
 
 ## Python
 
