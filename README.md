@@ -4,8 +4,10 @@
 
 ## Table of Contents
 
-*   [Go](#go)
 *   [Python](#python)
+*   [HTML](#html)
+*   [Lua](#lua)
+*   [Go](#go)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [C++](#c)
@@ -18,13 +20,10 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [CSS](#css)
-*   [HTML](#html)
-
-## Go
-
-*   [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities.
 
 ## Python
+
+*   [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 
 *   [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 
@@ -96,6 +95,24 @@
 
 *   [csukuangfj/transducer-loss-benchmarking](https://github.com/csukuangfj/transducer-loss-benchmarking) -
 
+## HTML
+
+*   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+
+*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
+
+*   [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) -  A collection of resources and papers on Diffusion Models
+
+*   [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss) - 🤖 Machine Learning Summer School Guide
+
+## Lua
+
+*   [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+
+## Go
+
+*   [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities.
+
 ## Shell
 
 *   [TanglingTreats/tmux-everforest](https://github.com/TanglingTreats/tmux-everforest) - Everforest theme for tmux
@@ -138,7 +155,7 @@
 
 ## Cuda
 
-*   [xlite-dev/CUDA-Learn-Notes](https://github.com/xlite-dev/CUDA-Learn-Notes) - 📚Modern CUDA Learn Notes: 200+ Tensor/CUDA Cores Kernels, FA2, HGEMM via MMA and CuTe (~99% TFLOPS of cuBLAS/FA2 🎉).
+*   [xlite-dev/CUDA-Learn-Notes](https://github.com/xlite-dev/CUDA-Learn-Notes) - 📚Modern CUDA Learn Notes: 200+ Tensor/CUDA Cores Kernels🎉, HGEMM, FA2 via MMA and CuTe, 98~100% TFLOPS of cuBLAS/FA2.
 
 ## miscellaneous
 
@@ -203,11 +220,3 @@
 ## CSS
 
 *   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
-
-## HTML
-
-*   [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.
-
-*   [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) -  A collection of resources and papers on Diffusion Models
-
-*   [awesome-mlss/awesome-mlss](https://github.com/awesome-mlss/awesome-mlss) - 🤖 Machine Learning Summer School Guide
