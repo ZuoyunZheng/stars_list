@@ -5,9 +5,10 @@
 ## Table of Contents
 
 *   [Python](#python)
+*   [Go](#go)
+*   [Rust](#rust)
 *   [HTML](#html)
 *   [Lua](#lua)
-*   [Go](#go)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [C++](#c)
@@ -22,6 +23,8 @@
 *   [CSS](#css)
 
 ## Python
+
+*   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 *   [snakers4/silero-vad](https://github.com/snakers4/silero-vad) - Silero VAD: pre-trained enterprise-grade Voice Activity Detector
 
@@ -95,6 +98,16 @@
 
 *   [csukuangfj/transducer-loss-benchmarking](https://github.com/csukuangfj/transducer-loss-benchmarking) -
 
+## Go
+
+*   [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
+
+*   [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities.
+
+## Rust
+
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+
 ## HTML
 
 *   [phil-opp/blog\_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
@@ -108,10 +121,6 @@
 ## Lua
 
 *   [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
-
-## Go
-
-*   [mrusme/zeit](https://github.com/mrusme/zeit) - Zeit, erfassen. A command line tool for tracking time spent on activities.
 
 ## Shell
 
