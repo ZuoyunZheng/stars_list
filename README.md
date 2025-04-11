@@ -4,13 +4,14 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
+*   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [HTML](#html)
 *   [Lua](#lua)
 *   [Shell](#shell)
-*   [TypeScript](#typescript)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [Markdown](#markdown)
@@ -18,11 +19,32 @@
 *   [miscellaneous](#miscellaneous)
 *   [Vim Script](#vim-script)
 *   [PureBasic](#purebasic)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [CSS](#css)
 
+## Jupyter Notebook
+
+*   [artbataev/uol\_final](https://github.com/artbataev/uol_final) - Code for the Final Project (Bachelor's Degree in Computer Science, University of London) "RNN-Transducer-based Losses for Speech Recognition on Noisy Targets"
+
+*   [philschmid/gemini-samples](https://github.com/philschmid/gemini-samples) -
+
+*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+
+*   [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
+
+*   [sophiamyang/tutorials-LangChain](https://github.com/sophiamyang/tutorials-LangChain) -
+
+*   [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
+
+*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
+*   [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, for human consumption
+
 ## Python
+
+*   [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+
+*   [FireRedTeam/FireRedASR](https://github.com/FireRedTeam/FireRedASR) - Open-source industrial-grade ASR models supporting Mandarin, Chinese dialects and English, achieving a new SOTA on public Mandarin ASR benchmarks, while also offering outstanding singing lyrics recognition capability.
 
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
@@ -98,6 +120,18 @@
 
 *   [csukuangfj/transducer-loss-benchmarking](https://github.com/csukuangfj/transducer-loss-benchmarking) -
 
+## TypeScript
+
+*   [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+
+*   [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+
+*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+
+*   [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
+
+*   [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
+
 ## Go
 
 *   [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -129,16 +163,6 @@
 *   [kyegomez/Python-Package-Template](https://github.com/kyegomez/Python-Package-Template) - A easy, reliable, fluid template for python packages complete with docs, testing suites, readme's, github workflows, linting and much much more
 
 *   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-
-## TypeScript
-
-*   [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-
-*   [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-
-*   [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim colorschemes around
-
-*   [Xtremilicious/projectlearn-project-based-learning](https://github.com/Xtremilicious/projectlearn-project-based-learning) - A curated list of project tutorials for project-based learning.
 
 ## C++
 
@@ -205,20 +229,6 @@
 ## PureBasic
 
 *   [Jithsaavvy/Deploying-an-end-to-end-keyword-spotting-model-into-cloud-server-by-integrating-CI-CD-pipeline](https://github.com/Jithsaavvy/Deploying-an-end-to-end-keyword-spotting-model-into-cloud-server-by-integrating-CI-CD-pipeline) - The project is a concoction of research (audio signal processing, keyword spotting, ASR), development (audio data processing, deep neural network training, evaluation) and deployment (building model artifacts, web app development, docker, cloud PaaS) by integrating CI/CD pipelines with automated tests and releases.
-
-## Jupyter Notebook
-
-*   [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-
-*   [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
-
-*   [sophiamyang/tutorials-LangChain](https://github.com/sophiamyang/tutorials-LangChain) -
-
-*   [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
-
-*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-
-*   [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, for human consumption
 
 ## Java
 
