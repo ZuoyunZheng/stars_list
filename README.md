@@ -13,7 +13,6 @@
 *   [HTML](#html)
 *   [Lua](#lua)
 *   [Shell](#shell)
-*   [JavaScript](#javascript)
 *   [Markdown](#markdown)
 *   [Cuda](#cuda)
 *   [miscellaneous](#miscellaneous)
@@ -21,6 +20,7 @@
 *   [PureBasic](#purebasic)
 *   [Java](#java)
 *   [CSS](#css)
+*   [JavaScript](#javascript)
 
 ## Python
 
@@ -65,6 +65,8 @@
 *   [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Minimal reproduction of DeepSeek R1-Zero
 
 *   [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 
 *   [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 
@@ -194,12 +196,6 @@
 
 *   [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
-## JavaScript
-
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-
-*   [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
-
 ## Markdown
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -255,3 +251,7 @@
 ## CSS
 
 *   [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+
+## JavaScript
+
+*   [knrt10/kubernetes-basicLearning](https://github.com/knrt10/kubernetes-basicLearning) - Understand kubernetes step by step. A simple repo for beginners :fire:
