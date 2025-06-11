@@ -202,7 +202,7 @@
 
 ## Cuda
 
-*   [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners, 200+ CUDA & Tensor Cores Kernels, HGEMM, FA-2 MMA etc.🔥
+*   [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA) - 📚LeetCUDA: 200+ CUDA/Tensor Cores Kernels, HGEMM, FA2 MMA.
 
 ## miscellaneous
 
